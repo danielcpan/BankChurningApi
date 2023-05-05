@@ -1,0 +1,1722 @@
+[
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Wells Fargo $2,500 Premier Checking Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://bonusoffer.wf.com/premierbonus?",
+            "description": "Requires $250,000 in cash or investments. Must be opened in a Wells Fargo branch. Account also has a $35 month fee, waived if you have $250,00 balance.",
+            "reviewUrl": "https://www.doctorofcredit.com/wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Wells Fargo $525 Savings Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://bonusoffer.wf.com/savingsbonus",
+            "description": "Requires $25,000 deposit. Must be opened in a Wells Fargo branch. Should stack well with the above-mentioned Wells Fargo Premier checking bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/wells-fargo-525-savings-bonus-with-25000-deposit-in-branch/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "PSECU $300 Checking Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://go.psecu.com/levelup?campaign_source=FC&campaign_medium=application_id&add_content=18808483",
+            "description": "This is technically PA only, but anybody can join Pennsylvania Recreation and Park Society (PRPS) for $20 and you get $10 of that back.",
+            "reviewUrl": "https://www.doctorofcredit.com/pa-only-psecu-100-250-checking-bonus/",
+            "creditPullType": "HARD",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $250+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "PNC $200/$400 Checking Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.pnc.com/en/personal-banking/banking/checking/campaigns/checking-offer-for-PNC-customers.html#",
+            "description": "The offer available depends on where you live.",
+            "reviewUrl": "https://www.doctorofcredit.com/pnc-up-to-250-400-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $2,000 – $5,000 required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "First Tech Federal Credit Union $350",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.firsttechfed.com/pages/depp/simplify-your-banking-life",
+            "description": "This is really a $200 checking bonus and then another $150 that requires $1,500 in spend in specific categories.",
+            "reviewUrl": "https://www.doctorofcredit.com/first-tech-federal-credit-union-350-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "3 recurring direct deposits within 120 days"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Gateway First Bank $250 Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.doctorofcredit.com/gateway-first-bank-250-checking-bonus/",
+            "description": "Main downside of this bonus is that it’s not displayed prominently.",
+            "reviewUrl": "https://www.doctorofcredit.com/gateway-first-bank-250-checking-bonus/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "direct deposit of $250+ required",
+            "creditFunding": "PROHIBITED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "US Alliance Financial $250 Checking Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": null,
+            "description": "\nRead our full post\nSoft pull\nNo credit card funding\nDirect deposit of $2,000+ required for three months\n"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Oxygen $110 Referral Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.doctorofcredit.com/oxygen-fintech-110-referral-bonus-for-each-party-requires-direct-deposit/",
+            "description": "Nice if you can refer P2.",
+            "reviewUrl": "https://www.doctorofcredit.com/oxygen-fintech-110-referral-bonus-for-each-party-requires-direct-deposit/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Affinity Federal Credit Union $100 Referral Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://share.affinityfcu.org/zone/microsite?journey.campaign_id=7134729748330288377",
+            "description": "Affinity have offered a $150 bonus in this past, this is better if you’re referred by a friend or family member and they are happy to give some of their bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/affinity-federal-credit-union-100-referral-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $100+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "GO2Bank $100 Referral Checking Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.doctorofcredit.com/share-your-go2bank-referral-links/",
+            "description": "It might also be possible to go through a portal for another $125.",
+            "reviewUrl": "https://www.doctorofcredit.com/207974-2/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "direct deposit of $2000+ required",
+            "creditFunding": "PROHIBITED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Charles Schwab Up To $500 Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.schwab.com/public/schwab/nn/refer-prospect.html",
+            "description": "This is now a soft pull making it much more interesting. People like this account because the account is quite useful (e.g ATM fees reimbursed, no fees for foreign transaction withdrawals) and you can also get this account and a brokerage account at the same time for one hard pull. The brokerage account then gives you access to the Charles Schwab credit cards. Obviously not for everybody, but a pretty good combination.",
+            "reviewUrl": "https://www.doctorofcredit.com/charles-schwab-referral-bonus-up-to-500/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Thrivent $200 Checking Bonus – Christian Faith Required",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://info.thriventcu.com/thrivent-rewards-checking-bonus-3b1",
+            "description": "This is available nationwide but you must be of Christian Faith or married to somebody who is. They are also ChexSystems sensitive.",
+            "reviewUrl": "https://www.doctorofcredit.com/thrivent-federal-credit-union-200-checking-bonus-christian-faith-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $2,500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Christian Community Credit Union – $200 Bonus – Must Be A Member of A Christian Ministry",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.mycccu.com/checking",
+            "description": "The Christian Ministry requirement seems to be enforced and will rule out a lot of people, if you are eligible though this is a great deal.",
+            "reviewUrl": "https://www.doctorofcredit.com/must-member-christian-ministry-christian-community-credit-union-200-checking-account-bonus-4-cd/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "direct deposit with no minimum specified",
+            "creditFunding": "ALLOWED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Lili Bank $100 + $100",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.doctorofcredit.com/lili-bank-50-swagbucks-50-referral-offer-direct-deposit-not-required/",
+            "description": "Can get $100 via referral and another $100 via drop/Swagbucks.",
+            "reviewUrl": "https://www.doctorofcredit.com/lili-bank-50-swagbucks-50-referral-offer-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $250+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Revolut Savings Bank $50",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.doctorofcredit.com/revoult-savings-vault-earn-up-to-5-apy/",
+            "description": "Account also earns 5% APY.",
+            "reviewUrl": "https://www.doctorofcredit.com/revoult-savings-vault-earn-up-to-5-apy/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "direct deposit not required",
+            "creditFunding": "PROHIBITED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Kinecta $250 Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.kinecta.org/trifecta",
+            "description": "Similar to the Amalgamated bonus readers are having difficulties getting approved for this bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/kinecta-250-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Fidelity Bloom $100 Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.fidelity.com/go/starter-pack",
+            "description": "Signup and a simple $50 deposit gets you $100. Use promo code FIDELITY100. Works on a a Fidelity Cash Management account, investment account, Roth IRA, or Traditional IRA account.",
+            "reviewUrl": "https://www.doctorofcredit.com/fidelity-100-bonus-with-cash-management-or-investing-account-no-requirements-other-than-50-deposit/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Fidelity Bloom $80 Bonus",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.fidelity.com/mobile/bloom",
+            "description": "Signup and a simple $25 deposit gets you $50. Deposit $300 and get $30. Future years you can deposit $300 and get $15.",
+            "reviewUrl": "https://www.doctorofcredit.com/fidelity-launches-bloom-app-with-80-signup-bonus-currently-ios-only/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Fidelity Youth Account $50",
+            "accountType": "CHECKING",
+            "directLinkToOffer": "https://www.fidelity.com/go/youth-account/overview",
+            "description": "Must be aged 13 – 17 to be eligible.",
+            "reviewUrl": "https://www.doctorofcredit.com/fidelity-youth-bonus-50-bonus-for-ages-13-17-with-account-opening-no-requirements/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Citi Up To $2,000 Bonus – No Direct Deposit Required",
+            "accountType": "SAVINGS",
+            "directLinkToOffer": "https://banking.citi.com/cbol/checking/tiered/default.htm?venue=GoogleBR&cmp=knc_acquire_2207_BAUCHK_Multi_Google_BR&gclid=Cj0KCQjw27mhBhC9ARIsAIFsETF6eGwWVjwKlkdph7xlIEEuASamm3vH1V4huLyb9THTOrl19LLovZsaAqOFEALw_wcB&gclsrc=aw.ds&BT_TX=1&ProspectID=4C57CC7F2B114FAA81C235424EA5A370",
+            "description": "This is really more of a savings bonus as it requires a large deposit. Works out to be 10% APY for the best bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/citi-up-to-2000-personal-checking-savings-bonus-available-nationwide-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Discover $150-$200 Savings Bonus",
+            "accountType": "SAVINGS",
+            "directLinkToOffer": "https://www.discover.com/online-banking/savings-lng-04/?TPR=059&cmpgnid=ps-bk-ggl-bnd-OSA-rlsa&src=GOBR622&van=Dbank&gclid=CjwKCAjw77WVBhBuEiwAJ-YoJE7s89-W5XPnstys4C1xXnmBwKcKIhlK5doBzwvLZ8AU4irgzu5xhhoCPn4QAvD_BwE&gclsrc=aw.ds",
+            "description": "$150 bonus requires $15,000 deposit and $200 bonus requires $25,000 deposit. There is also a $500 version that requires a $50,000 deposit but that isn’t currently available. Keep in mind that cumulative deposits work.",
+            "reviewUrl": "https://www.doctorofcredit.com/discover-savings-150200-bonus-1500020000-deposit-new-exp-103117/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Associated Bank – $200 Savings Bonus  – IA, IL, IN, KS, MI, MN, MO, OH and WI",
+            "accountType": "SAVINGS",
+            "directLinkToOffer": "https://www.associatedbank.com/SavingsOffer",
+            "description": "Can be combined with the $400 checking bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/il-in-mn-wi-only-associated-bank-500-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": null
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Alliant Credit Union $100 Savings Bonus",
+            "accountType": "SAVINGS",
+            "directLinkToOffer": "https://ww2.alliantcreditunion.org/ultimate-opportunity-savings?utm_source=SIM&utm_medium=email&utm_campaign=Money-Mentor_0122&utm_content=Money-Mentor",
+            "description": "Requires depositing $100 each month for 12 months to get the $100 bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/alliant-credit-union-100-ultimate-opportunity-savings-account-no-direct-deposit-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Waterstone Bank $100 Savings – WI only",
+            "accountType": "SAVINGS",
+            "directLinkToOffer": "https://www.wsbonline.com/bravo-program-benefits",
+            "description": "Can also be combined with the $250 checking bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/wi-waterstone-bank-256-checking-promotion-1000-scorecard-points/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Marcus $100 Savings Bonus",
+            "accountType": "SAVINGS",
+            "directLinkToOffer": null,
+            "description": "\nRead our full post\nSoft pull\nNo credit card funding\nDeposit of $10,000 in new money is required\n"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "U.S. Bank Business Checking $500/$750 Bonus",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.usbank.com/affiliate/business-checking/online-banking-bonus-a.html",
+            "description": "There is a $750 bonus and $500 bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/u-s-bank-750-business-checking-bonus-2/",
+            "creditPullType": "SOFT",
+            "creditFunding": null,
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "American Express Business Checking 30,000 Points",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.americanexpress.com/en-us/business/checking/",
+            "description": "Requires $5,000 in deposits for 60 days and also 10 transactions. Fairly simple bonus to do a nice bonus (though it was once higher at 60k).",
+            "reviewUrl": "https://www.doctorofcredit.com/american-express-business-checking-20000-membership-rewards-points-bonus-1-10-apy-earn-points-with-debit-card-spend/",
+            "creditPullType": "SOFT"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Citibank Up To $2,000 Business Checking Bonus – In Branch Only",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": null,
+            "description": "Only available in branch and not all branches have this offer. This is more of a savings bonus as the $2,000 bonus requires a deposit of $200,000+ for example.",
+            "reviewUrl": "https://www.doctorofcredit.com/ymmv-in-branch-citibank-business-up-to-2000-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Bank of America $200 Business Checking",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://promotions.bankofamerica.com/smallbusiness/sboffer200",
+            "description": "There is a $500 targeted bonus. But it’s not often we see public bonuses.",
+            "reviewUrl": "https://www.doctorofcredit.com/bank-of-america-200-business-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Axos Bank $100/$200 Business Checking",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.axosbank.com/basicbusinesschecking",
+            "description": "Just need an average balance of $2,500+ for the first two months. Bonus is $200 if business must be incorporated after 6/01/2020",
+            "reviewUrl": "https://www.doctorofcredit.com/axos-bank-100-business-checking-bonus-business-must-be-incorporated-after-6-1-20/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Live Oak Bank $300 Business Savings",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://info.liveoakbank.com/business-savings",
+            "description": "Requires a $30,000 deposit but does offer 4% APY.",
+            "reviewUrl": "https://www.doctorofcredit.com/live-oak-bank-300-business-savings-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Truist $400 AL, AR, GA, FL, IN, KY, MD, MS, NC, NJ, OH, PA, SC, TN, TX, VA, WV or DC",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.truist.com/lp/open-small-business-checking",
+            "description": "Bonus was recently increased to $400 from $200.",
+            "reviewUrl": "https://www.doctorofcredit.com/truist-200-business-checking-bonus-al-ar-ga-fl-in-ky-md-ms-nc-nj-oh-pa-sc-tn-tx-va-wv-or-dc/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Citizens Bank $500 – CT, DE, MA, MI, NH, NJ, NY, OH, PA, RI, VT, VA, D.C., MD, FL",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.citizensbank.com/promo/business/checking/2023/offer-01.aspx?ctzMode=MKL-SOC_FBK_BBN_CTZ_BBKBO_OFFCHKFB",
+            "description": "Previously this was a targeted offer, but now it’s a public offer.",
+            "reviewUrl": "https://www.doctorofcredit.com/targeted-ct-de-ma-mi-nh-nj-ny-oh-pa-ri-vt-va-d-c-md-fl-citizens-bank-500-business-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Bank Novo $100 Referral Bonus",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.doctorofcredit.com/bank-novo-business-checking-30-referral-bonus/",
+            "description": "Looks like you can get an extra $33 by going through Swagbucks as well.",
+            "reviewUrl": "https://www.doctorofcredit.com/bank-novo-business-checking-30-referral-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Huntington Bank $200/$500/$1,000 – OH, MI, IN, PA, KY, WV & IL",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.huntington.com/business-banking-promotions-offers",
+            "description": "The $400 bonus has been increased to $500. $750 bonus has been increased to $1,000.",
+            "reviewUrl": "https://www.doctorofcredit.com/oh-mi-pa-ky-wv-il-wi-huntington-bank-500-750-business-checking-bonuses/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "PNC $200/$500 Business Checking AL, DC, DE, FL, GA, IL, IN, KY, MD, MI, MO, NC, NJ, NY, OH, PA, SC, VA, WI and WV",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.pnc.com/en/small-business/banking/business-checking-overview/business-checking-offer.html",
+            "description": "Not nationwide like the personal bonus unfortunately. They have offered a $300 bonus in the past, but that hasn’t been available for some time. It’s also now easier to keep the account fee free and because of that we’ve added it back to this list. In some states this is now $500.",
+            "reviewUrl": "https://www.doctorofcredit.com/pnc-up-to-500-business-checking-bonus-al-dc-de-fl-ga-il-in-ky-md-mi-mo-nc-nj-ny-oh-pa-sc-va-wi-and-wv/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "M&T Bank $500 Business Checking Bonus – CT, DE, D.C., MD, NJ, NY, PA, VA, WV",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://campaigns.mtb.com/bizbonus",
+            "description": "Has been $400 in the past, but we haven’t seen an offer that high for some time.",
+            "reviewUrl": "https://www.doctorofcredit.com/ct-de-d-c-md-nj-ny-pa-va-wv-in-branch-mt-bank-400-business-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Seacoast Bank $300 Business Checking Bonus – FL Only",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.doctorofcredit.com/fl-seacoast-bank-250-business-checking-bonus/",
+            "description": "This needs to be opened in branch but only requires a minimum balance of $1,500 for 90 days to trigger the bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/fl-seacoast-bank-250-business-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": null,
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "WinTrust Community Bank $500 Bonus – IL, WI, FL",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.wintrust.com/lp/2021/business-community-checking.html",
+            "description": "Now available in more states, requirements are easy as well.",
+            "reviewUrl": "https://www.doctorofcredit.com/il-in-branch-only-wintrust-community-bank-300-business-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Banner Bank $300 OR, WA, CA & ID",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.bannerbank.com/business-solutions/business-checking/business-checking-offer",
+            "description": "There is also a $100 savings bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/or-wa-ca-id-banner-bank-300-business-checking-100-savings-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit optional"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Farm Bureau Bank $250 – NV",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://farmbureau.bank/Reno-Location",
+            "description": "There is also a $150 personal checking bonus but not clear if both of these bonuses can be done.",
+            "reviewUrl": "https://www.doctorofcredit.com/nv-farm-bureau-bank-150-personal-checking-250-business-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "1st United Credit Union – $200 Business Checking Bonus – CA only",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": "https://www.1stunitedcu.org/business-checking",
+            "description": "Normally in branch only but can also be opened online.",
+            "reviewUrl": "https://www.doctorofcredit.com/ymmv-select-ca-areas-only-1st-united-credit-union-200-business-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Provident Credit Union $150 In Branch Business Checking Bonus – CA",
+            "accountType": "BUSINESS",
+            "directLinkToOffer": null,
+            "description": "\nRead our full post\nSoft pull\nCredit card funding up to $1,000\nTwo $500 direct deposits required\n"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "FirstBank $300 – CA, AZ, CO – Direct Deposit Optional",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.efirstbank.com/_jensen/pages/bloom2008/bloom.htm",
+            "description": "Standard bonus is $200 and that requires a direct deposit. This one is $300 and you can either do a direct deposit or spend $500 on a debit card.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-az-co-300-firstbank-checking-bonus-direct-deposit-optional/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+is optional"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "TBK Bank $600 Bonus – CO, IA, IL, KS & TX",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.tbkbank.com/aimcheckingpromo/",
+            "description": "Unfortunately it requires a huge direct deposit, but can be done over multiple direct deposits.",
+            "reviewUrl": "https://www.doctorofcredit.com/co-ia-il-ks-tx-tbk-bank-600-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "requires a direct deposit of $12,000+"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Flushing Bank $700 Bonus – NY & NJ – Direct Deposit Optional",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.flushingbank.com/media/wzimglha/fb-1071-spring-cvp-flyer-english.pdf",
+            "description": "No monthly fees to worry about or direct deposit. Does require depositing $50,000+ for the full bonus though, really more of a combination savings & checking bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/ny-nj-flushing-bank-up-to-700-bonus-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit optional"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "bankESB (East Hampton Savings Bank) $200 – Direct Deposit Not Required – MA, CT",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.bankesb.com/200-adventure/",
+            "description": "Direct deposit isn’t required but account needs to be open for one year to receive $50 of the bonus. The upside is that the account has no monthly fees to worry about.",
+            "reviewUrl": "https://www.doctorofcredit.com/ma-ct-ri-bankesb-east-hampton-savings-bank-200-checking-bonus-direct-deposit-no-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "First Federal Credit Union $200 Checking Bonus – IA only – No Direct Deposit Required",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.firstfedcu.com/charityoffer",
+            "description": "Nice bonus with no monthly fee or direct deposit requirement.",
+            "reviewUrl": "https://www.doctorofcredit.com/ia-only-first-federal-credit-union-200-checking-bonus-direct-deposit-optional/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Citizens Bank $400  Checking Bonuses – CT, DE, MA, MI, NH, NJ, NY, OH, PA, RI, VT, D.C.",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.citizensbank.com/promo/checking/special-offer-f2.aspx",
+            "description": "This is the highest bonus they have offered, although there was a targeted offer for $600 last year.",
+            "reviewUrl": "https://www.doctorofcredit.com/ct-de-ma-mi-nh-nj-ny-oh-pa-ri-vt-citizens-bank-400-checking-bonus-2/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "direct deposit of $1,000+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "M&T Bank $450 Checking Bonus – CT, DE, D.C., MD, NJ, NY, PA, VA, WV",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.doctorofcredit.com/mt-bank-150-checking-bonus-tn-available-online-ct-dc-de-md-nj-ny-pa-va-wv/",
+            "description": "This is really a $350 checking + $100 savings bonus but the requirements for both offers are easy.",
+            "reviewUrl": "https://www.doctorofcredit.com/mt-bank-150-checking-bonus-tn-available-online-ct-dc-de-md-nj-ny-pa-va-wv/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Credit Union 1 $500 – IL Only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.creditunion1.org/bank/checking/nd-free-checking-bonus/",
+            "description": "Unfortunately there is mixed datapoints on this being a hard or soft pull and it also requires direct deposits for three months.",
+            "reviewUrl": "https://www.doctorofcredit.com/il-only-credit-union-1-500-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $1,000+ required for three months"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Ballston Spa National Bank (BSNB) $250 Checking Bonus – Some Areas of NY",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.bsnb.com/personal/welcome-rewards-program.php",
+            "description": "Previously this had to be opened in branch, but now it can be opened online as well.",
+            "reviewUrl": "https://www.doctorofcredit.com/ny-ballston-spa-national-bank-bsnb-branch-250-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Waterstone Bank $250 Checking – WI only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.wsbonline.com/bravo-program-benefits",
+            "description": "No monthly fee. There is also a $100 money market bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/wi-waterstone-bank-256-checking-promotion-1000-scorecard-points/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $300+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "First National Bank (FNB) $400 Checking Bonus – PA, OH, MD, DC, VA, NC, SC, WV",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.fnb-online.com/penguins",
+            "description": "Nice big bonus with small requirements and you only need eStatements to keep it fee free. There was a $600 version of this bonus in the past, but that was available in less areas.",
+            "reviewUrl": "https://www.doctorofcredit.com/pa-oh-md-wv-nc-sc-dc-only-first-national-bank-fnb-400-checking-promotion/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposits totaling $2,5000+ required within 90 days"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Associated Bank – $400 Bonus  – IA, IL, IN, KS, MI, MN, MO, OH and WI",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.doctorofcredit.com/il-in-mn-wi-only-associated-bank-500-checking-bonus/",
+            "description": "Huge bonus, does require a large balance of $10,000+ for a short period of time for the full $400 bonus but well worth doing if you have the spare funds. Available in a lot more states now.",
+            "reviewUrl": "https://www.doctorofcredit.com/il-in-mn-wi-only-associated-bank-500-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": null,
+            "directDepositDetails": "requires a direct deposit of $500+"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "United States Senate Federal Credit Union $500 – VA Only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.ussfcu.org/promotions/New-Member-Bonus.html",
+            "description": "No monthly fees to worry about and relatively easy requirements.",
+            "reviewUrl": "https://www.doctorofcredit.com/va-only-united-states-senate-federal-credit-union-200-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $250+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "NVE Bank $600 Checking – NJ Only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://nveoffer.com/advantage/",
+            "description": "We still need to know if this is a hard or soft pull, but even if it’s a hard pull it should be worth doing.",
+            "reviewUrl": "https://www.doctorofcredit.com/nj-only-nve-bank-600-checking-bonus/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "direct deposit of $2,000+ required",
+            "creditFunding": "PROHIBITED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "CIBM Bank $250/$600 Checking Bonus IN, IL, WI",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.doctorofcredit.com/in-il-wi-cibm-bank-250-600-checking-bonus-direct-deposit-not-required/",
+            "description": "The $250 bonus doesn’t require a direct deposit, but the $600 bonus does.",
+            "reviewUrl": "https://www.doctorofcredit.com/in-il-wi-cibm-bank-250-600-checking-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit required for $600 bonus"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Truist $400 AL, AR, GA, FL, IN, KY, MD, MS, NC, NJ, OH, PA, SC, TN, TX, VA, WV or DC",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.truist.com/checking/checking-bonus-offer2",
+            "description": "Bonus was recently increased to $400 from $200.",
+            "reviewUrl": "https://www.doctorofcredit.com/truist-300-checking-bonus-al-ar-ga-fl-in-ky-md-ms-nc-nj-oh-pa-sc-tn-tx-va-wv-or-dc/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Bay First $400 Bonus – FL only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://bayfirstfinancial.com/offer-landing-pages/january-$500-offer/",
+            "description": "Previously called First Home Bank. Much bigger than the previous $200 bonus and a nice amount of credit card funding.",
+            "reviewUrl": "https://www.doctorofcredit.com/fl-first-home-bank-250-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit required, no minimum specified"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "HomeTrust Bank $400 Bonus  NC, SC, TN, VA",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://hs.htb.com/upto400",
+            "description": "Previous best bonus was $150.",
+            "reviewUrl": "https://www.doctorofcredit.com/nc-sc-tn-va-hometrust-bank-400-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $2,500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "PeoplesBank $400 Checking – MD & PA",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.peoplesbanknet.com/your-life/momentum/",
+            "description": "There are no monthly fees.",
+            "reviewUrl": "https://www.doctorofcredit.com/md-pa-peoplesbank-150-checking-bonus-4/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $350+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Fulton Bank $300 – DE, DC, MD, NJ, PA, & VA – Direct Deposit Not Required",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "http://offer.fultonbank.com/CheckingPromo",
+            "description": "Nice bonus that only requires 15 debit card transactions to trigger. Bonus has been increased to $300 from $200.",
+            "reviewUrl": "https://www.doctorofcredit.com/de-dc-md-nj-pa-va-only-fulton-bank-200-checking-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "First Bank Financial Centre (FBFC) $150 Bonus – Direct Deposit Not Required – WI Only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.fbfcwi.com/open-new-account",
+            "description": "No monthly fees or direct deposit required. $150 donation is also made to a local school program.",
+            "reviewUrl": "https://www.doctorofcredit.com/wi-veterans-only-150-first-bank-financial-centre-fbfc-checking-bonus-no-direct-deposit-or-monthly-fees/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "WinTrust Bank $300 Checking – IL, FL, WI, IN only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.doctorofcredit.com/il-only-wintrust-bank-300-checking-bonus/",
+            "description": "Much better than the $100 bonus they previously offered. There is also a $200 savings bonus that can be done at the same time.",
+            "reviewUrl": "https://www.doctorofcredit.com/il-only-wintrust-bank-300-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit required, no minimum specified"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Dedham Savings Bank – $250 Bonus – MA only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.dedhamsavings.com/switch",
+            "description": "Better than the standard $100 offer they usually have.",
+            "reviewUrl": "https://www.doctorofcredit.com/ma-only-dedham-savings-bank-250-checking-bonus/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "direct deposit with no minimum specified",
+            "creditFunding": "PROHIBITED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Hawthorn Bank $300 MO, KS",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.hawthornbank.com/earn-300-when-you-open-an-account",
+            "description": "\n\n\n\n\n(adsbygoogle = window.adsbygoogle || []).push({});\n"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Seacoast Bank $350 Bonus – FL only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "http://seacoastbank.com/premium-checking-and-money-market",
+            "description": "There is also a $150 savings bonus that can be done at the same time.",
+            "reviewUrl": "https://www.doctorofcredit.com/fl-in-branch-only-seacoast-bank-350-checking-150-savings-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Old National Bank $300/$450 Bonus – IA, IL, IN, KY, MN & MI",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.oldnational.com/personal/our-best-offers/#QUALIFYING",
+            "description": "Small amount of credit card funding on offer, simple to keep the monthly fee waived as well.",
+            "reviewUrl": "https://www.doctorofcredit.com/in-ky-mn-mi-old-national-bank-300-450-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": null,
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "USE Credit Union $300 Bonus – CA",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.usecu.org/new-member-offer/",
+            "description": "Unfortunately seems to be a hard pull if applying online.",
+            "reviewUrl": "https://www.doctorofcredit.com/ymmv-ca-only-use-credit-union-300-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": null,
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Central Bank $300 – OK, IL KS & MO, CO",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.centralbank.net/raf300/",
+            "description": "Can also be combined with a $100 savings bonus as well.",
+            "reviewUrl": "https://www.doctorofcredit.com/ok-mo-only-central-bank-300-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "requires two direct deposits"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Premier Bank $200 Bonus – OH, MI, IN and PA",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.yourpremierbank.com/BuildYourNewMoneyMindset",
+            "description": "Has been as high as $200 in the past.",
+            "reviewUrl": "https://www.doctorofcredit.com/oh-mi-in-and-pa-premier-bank-200-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $100+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "HarborOne Bank $200 Checking & Savings Bonus – MA, NH, and RI",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.harborone.com/register",
+            "description": "They have offered a bigger bonus in the past, but the requirements for this bonus are much easier to meet. There is also a $450 checking + $300 savings for those in Boston.",
+            "reviewUrl": "https://www.doctorofcredit.com/ma-nh-and-ri-harborone-bank-200-checking-savings-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $2,500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Citadel Bank $300 Checking Bonus – PA only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.citadelbanking.com/campaigns/digital-media/evergreen-cbrc-free-ppc?gclid=CjwKCAjw9e6SBhB2EiwA5myr9juU7JJiVk8fb3BanbEPnoxBMWovyQ6h958JAgezedfoxdjhJ1UIxBoCMm8QAvD_BwE",
+            "description": "You can also get a $100 savings bonus from Citadel as well which is nice. No monthly fees to worry about either.",
+            "reviewUrl": "https://www.doctorofcredit.com/pa-citadel-bank-300-checking-bonus-100-savings/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Provident Credit Union $300 Checking Bonus – CA only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://providentcu.org/products/checking-accounts/super-reward-checking/300-bonus-yelp",
+            "description": "Requires 2 x $400 in debit spend and 2 x $500 direct deposit, but if can manage those it’s a nice bonus. There is a hard pull.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-only-provident-credit-union-300-checking-bonus-with-debit-spend-2-direct-deposits/",
+            "creditPullType": "HARD",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "First Bank – $300 Checking Bonus – CA, IL & MO",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://first.bank/Personal/Spend/Checking-Accounts/First-Performance-Bonus-Offer",
+            "description": "Annoying to keep the account fee free, there is also a $200 business checking bonus that can be done at the same time.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-il-mo-first-bank-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Landmark Credit Union $300 – WI, IL",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://landmarkcu.com/promo/spring-300/?utm_source=evolear&utm_medium=ola&utm_campaign=checking-300&utm_content=thank-you-300x250",
+            "description": "Previously had targeted language but that has been removed.",
+            "reviewUrl": "https://www.doctorofcredit.com/wi-il-only-landmark-credit-union-300-checking-bonus/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "requires a recurring monthly direct deposit of at least $250",
+            "creditFunding": "ALLOWED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "First Financial Bank $200 Checking Bonus, Direct Deposit Not Required – IL, IN, KY, OH",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.bankatfirst.com/checking-offer.html",
+            "description": "Very easy bonus to meet the requirements for.",
+            "reviewUrl": "https://www.doctorofcredit.com/il-in-ky-oh-first-financial-bank-100-checking-bonus-100-donation-to-united-way-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "South State Bank $200 checking Bonus – GA, NC, SC, VA – Direct Deposit Not Required",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.southstatebank.com/personal/bank/earn200",
+            "description": "Doesn’t require a direct deposit either.",
+            "reviewUrl": "https://www.doctorofcredit.com/ga-nc-sc-south-state-bank-100-checking-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "First Bank $200 – VA & MD – Direct Deposit Not Required",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.fbvirginia.com/Anywhere-Checking",
+            "description": "This one does have a monthly fee, but fairly easy to avoid plus a nice amount of credit card funding. Direct deposit no longer required and bonus has been increased from $100 to $200.",
+            "reviewUrl": "https://www.doctorofcredit.com/va-only-first-bank-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "BMI Federal Credit Union $200 – OH – Direct Deposit Not Required",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.bmifcu.org/member-promotions.html",
+            "description": "Main downside is there are mixed reports of this being a hard or soft pull.",
+            "reviewUrl": "https://www.doctorofcredit.com/oh-only-bmi-federal-credit-union-150-checking-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Idaho Central Credit Union (ICCU) $200 Bonus – ID, WA, OR, Direct Deposit Not Required",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.iccu.com/info/23041-lake-hazel-branch-celebration",
+            "description": "Most of the requirements for this bonus are really easy, but you do need to complete a financial check up for $50 of the bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/id-only-idaho-central-credit-union-iccu-150-checking-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Citadel Bank $300 Checking Bonus – PA only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.citadelbanking.com/campaigns/digital-media/082021-checking-300-gdn",
+            "description": "You can also get a $100 savings bonus from Citadel as well which is nice. No monthly fees to worry about either.",
+            "reviewUrl": "https://www.doctorofcredit.com/pa-citadel-bank-300-checking-bonus-100-savings/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "KeyPoint Credit Union $300 Checking – CA Only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://kpcu.com/LPs/MB50",
+            "description": "Big bonus with a nice amount of credit card funding.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-only-keypoint-credit-union-200-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $1,000 required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Broadway Bank $300 – TX",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://broadway.bank/offer200",
+            "description": "This is the biggest bonus we’ve seen from this bank, previously it was $250.",
+            "reviewUrl": "https://www.doctorofcredit.com/tx-only-broadway-bank-200-checking-bonus/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "direct deposit of $2,500+ required",
+            "creditFunding": "ALLOWED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Fidelity Bank $300 – MA, NH Only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.fidelitybankonline.com/getlove/",
+            "description": "Unfortunately requires a lot of debit card transactions for two months.",
+            "reviewUrl": "https://www.doctorofcredit.com/ma-fidelity-bank-up-to-250-checking-bonus/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "requires a direct deposit of $500+",
+            "creditFunding": "ALLOWED"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Royal Credit Union $250 Checking Bonus – MN, WI",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.rcu.org/promos/checking/incentive-checking",
+            "description": "No monthly fee to worry about and nice amount of credit card funding",
+            "reviewUrl": "https://www.doctorofcredit.com/mn-wi-royal-credit-union-200-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $200+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Blue Federal Credit Union $200 Bonus CO, WY – In Branch Only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.bluefcu.com/get_outside",
+            "description": "Previously this was nationwide, but looks like you need to go in branch now.",
+            "reviewUrl": "https://www.doctorofcredit.com/co-wy-blue-federal-credit-union-200-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "requires a direct deposit of $500+"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Newtown Savings Bank (NSB) $250 Bonus  – CT & Select Counties In NY only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.nsbonline.com/freensb",
+            "description": "Bonus used to be better when you could fund $1,000 with a credit card, although then the actual bonus was less. Also comes with a $150 savings bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/ct-select-counties-in-ny-only-newtown-savings-bank-nsb-150-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit required but no minimum specified"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Banner Bank $200 OR, WA, CA & ID",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.bannerbank.com/reward",
+            "description": "Looks like you might actually need to open in branch to be eligible.",
+            "reviewUrl": "https://www.doctorofcredit.com/or-wa-ca-id-banner-bank-200-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit optional"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Credit Human $200 Bonus – TX only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.credithuman.com/promotional/reward-promocode",
+            "description": "No monthly fee to worry about and bonus has recently increased from $100 to $200.",
+            "reviewUrl": "https://www.doctorofcredit.com/tx-only-credit-human-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "two direct deposits of $100+ within 60 days of account opening"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Bar Harbor Bank & Trust $200 Checking Bonus – ME, VT & NH",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.barharbor.bank/cashbonus",
+            "description": "They offer a free checking account.",
+            "reviewUrl": "https://www.doctorofcredit.com/me-nh-in-branch-only-bar-harbor-bank-trust-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $250+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Pinnacle Financial Partners $200 Mastercard Checking Bonus – TN",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.pnfp.com/grizzlies-banking/200-mastercard-gift-card/",
+            "description": "A lot of requirements unfortunately for the bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/tn-only-pinnacle-financial-partners-200-mastercard-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit required, must be full paycheck"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Teachers Credit Union $200 IN & MI",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.tcunet.com/join200?utm_source=google&utm_medium=cpc&utm_campaign=join200-fall22&utm_content=epm-checking-category&gclid=Cj0KCQjw166aBhDEARIsAMEyZh5Gq5501rDtHkoY6p2pGYRzFsyom_RQPys2Zj8NjZ020xiIBIHdQYoaAtmyEALw_wcB",
+            "description": "Nice amount of credit card funding is available as well.",
+            "reviewUrl": "https://www.doctorofcredit.com/in-mi-teachers-credit-union-200-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Old Second Bank $300 Bonus – IL only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.oldsecond.com/personal-banking/checking-300",
+            "description": "Another small bonus, upside is that $100 can be done without a direct deposit being required.",
+            "reviewUrl": "https://www.doctorofcredit.com/il-only-old-second-bank-300-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "two direct deposits totaling $500 or more required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Dollar Bank $300 Bonus – OH, VA & PA",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.dollar.bank/Ads/$400-Checking-pa?aliaspath=%2fAds%2f400-PA",
+            "description": "Has been as high as $400 in the past with the same requirements.",
+            "reviewUrl": "https://www.doctorofcredit.com/oh-va-pa-only-dollar-bank-400-checking-bonus",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $5,000+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "KeyBank $200 Bonus – AK, CO, CT, ID, IN, MA, ME, MI, NY, OH, OR, PA, UT, VT, or WA",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.key.com/personal/promo/checking/200.html?ppc=2304_CMPACQ_ONAS0423_ps",
+            "description": "We have seen a recent offer with no direct deposit required.",
+            "reviewUrl": "https://www.doctorofcredit.com/unknown-location-restrictions-keybank-200-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "OMNI Community Credit Union $200 – MI",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.omnicommunitycu.org/",
+            "description": "This would be higher but it’s a hard pull to open.",
+            "reviewUrl": "https://www.doctorofcredit.com/mi-omni-community-credit-union-200-checking-bonus/",
+            "creditPullType": "HARD",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $100+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Sandy Spring Bank $200 Bonus – MD, DC & VA",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.sandyspringbank.com/offer/myfree",
+            "description": "They have offered a bonus of $300 in the past, but this is easier than what that bonus required. One or two datapoints of them being ChexSystems sensitive, but others with lots of inquiries have been approved.",
+            "reviewUrl": "https://www.doctorofcredit.com/md-dc-va-sandy-spring-bank-150-checking-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+ required for four months"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Honor Credit Union $250 Checking Bonus – MI",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.honorcu.com/jointhefam/",
+            "description": "The credit card funding is interesting, but it’s unfortunate about the $15 fee and also the hard pull to open the account.",
+            "reviewUrl": "https://www.doctorofcredit.com/mi-only-honor-credit-union-250-checking-bonus/",
+            "creditPullType": "HARD",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $100+ per month required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Summit Federal Credit Union Up To $150 – NY – Direct Deposit Not Required",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.summitfcu.org/products-services/cards/debit-cards/visa-debit-card/i-want-150/",
+            "description": "Requires 20 debit card purchases instead of a direct deposit.",
+            "reviewUrl": "https://www.doctorofcredit.com/ny-only-summit-federal-credit-union-up-to-300-checking-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Sharepoint Credit Union $150 Checking Bonus – MN only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.sharepointcu.com/tools-and-resources/promotions/q1-2020-checking-special",
+            "description": "Account also offers 5% APY on balances up to $5,000",
+            "reviewUrl": "https://www.doctorofcredit.com/mn-sharepoint-credit-union-150-checking-bonus-5-apy/",
+            "creditPullType": "HARD",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $300+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Tower Federal Credit Union $100 – MD – No Requirements",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.towerfcu.org/cwfgolf2021/",
+            "description": "This bonus has no monthly fees or requirements to trigger, making it extremely easy.",
+            "reviewUrl": "https://www.doctorofcredit.com/md-only-tower-federal-credit-union-100-checking-bonus-no-requirements/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Westfield Bank $100 Bonus – OH Only – Direct Deposit Not Required",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.westfield-bank.com/promo-switch-bonus",
+            "description": "Any ACH deposit will work for this, doesn’t need to be direct deposit/payroll.",
+            "reviewUrl": "https://www.doctorofcredit.com/oh-westfield-bank-100-checking-bonus-no-direct-deposit-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit or recurring ach deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Orange County’s Credit Union $100 Checking Bonus – No Direct Deposit Required – CA Only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.orangecountyscu.org/landing/get-checking-and-$100/",
+            "description": "Always nice to see a bonus with no direct deposit required, in addition no monthly fees to worry about.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-only-orange-countys-credit-union-100-checking-referral-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Community First Credit Union $175 Bonus – FL only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.communityfirstfl.org/offers/free-checking",
+            "description": "No monthly fees to worry about and a nice bit of credit card funding as well.",
+            "reviewUrl": "https://www.doctorofcredit.com/fl-only-community-first-credit-union-160-amazon-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $300+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Jovia Financial Credit Union $150 Checking Bonus – NY Only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.joviafinancial.com/personal-banking/spend-save/checking",
+            "description": "Only requires a small direct deposit and no monthly fee.",
+            "reviewUrl": "https://www.doctorofcredit.com/ny-only-jovia-financial-credit-union-125-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $100+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Desert Financial Credit Union $100 Referral Bonus For Both Parties – AZ only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.desertfinancial.com/-/media/desert-financial/files/refer-a-friend.ashx",
+            "description": "Requires a referral, but that potentially makes it more profitable for those that do sign up if you can refer some friends/family.",
+            "reviewUrl": "https://www.doctorofcredit.com/az-only-desert-financial-credit-union-100-referral-bonus-for-both-parties/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit required, no minimum specified"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Collins Community Credit Union $100 Bonus – IA only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.collinscu.org/promotions/open-a-new-advantage-checking-account-and-get-a-100-bonus",
+            "description": "No monthly fee to worry about and nice amount of credit card funding as well.",
+            "reviewUrl": "https://www.doctorofcredit.com/ia-in-branch-only-collins-community-credit-union-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit, no minimum"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Power Financial Credit Union $100  – No Direct Deposit Required – FL only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.powerfi.org/About/Membership/Welcome-Gift",
+            "description": "Unfortunately seems to be a hard pull according to most people.",
+            "reviewUrl": "https://www.doctorofcredit.com/fl-power-financial-credit-union-100-checking-bonus-no-direct-deposit-required/",
+            "creditPullType": "HARD",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Verity Credit Union $100 Referral Bonus – WA",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.veritycu.com/about-us/new-member/refer-a-friend.html",
+            "description": "Nice bonus especially if you can refer a few people.",
+            "reviewUrl": "https://www.doctorofcredit.com/wa-only-verity-credit-union-150-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Greater Nevada Credit Union $100 – NV",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.gncu.org/Resources/GreaterPerks",
+            "description": "Nice amount of credit card funding.",
+            "reviewUrl": "https://www.doctorofcredit.com/nv-only-greater-nevada-credit-union-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Heritage Credit Union $100 – WI & IL – In Branch",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.heritagecu.org/free-checking.html",
+            "description": "Pretty small bonus and it also needs to be opened in branch. At least there is no monthly fees to worry about.",
+            "reviewUrl": "https://www.doctorofcredit.com/wi-il-onlyheritage-credit-union-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $100+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "California Coast Credit Union $100 Bonus – CA only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.ccu.com/eChecking",
+            "description": "California Coast sometimes have good CD rates as well. This is a small bonus but worth doing if you’ve already done bigger bonuses listed above.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-only-california-credit-union-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+ required for three months"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "USE Credit Union $100 Bonus – CA only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.usecu.org/home/home",
+            "description": "This is a referral bonus, so the bonus referring you will also receive $100.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-only-use-credit-union-100-referral-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Heritage Credit Union – WI & IL only – $100 Bonus",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.heritagecu.org/free-checking.html",
+            "description": "No monthly fees to worry about but a relatively small bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/wi-il-onlyheritage-credit-union-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $100+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Prestige Community Credit Union – TX – $100 Referral Bonus",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.prestigecu.org/new-accounts-content?rq=refer",
+            "description": "This is a referral bonus, so can be a bit better if you can refer some friends or family as well. Can also get a straight $150 bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/tx-only-prestige-community-credit-union-100-referral-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $400+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Lafayette Federal Credit Union $100 – MD, D.C. & VA",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.lfcu.org/about/news-promotions/new-member-750-1.aspx",
+            "description": "You can get additional bonuses up to $750, but most of that is closing costs on a mortgage.",
+            "reviewUrl": "https://www.doctorofcredit.com/md-d-c-va-lafayette-federal-credit-union-100-checking-bonus-2/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Financial Partners Credit Union – CA – $100 Referral Bonus",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://promos.fpcu.org/referafriend/",
+            "description": "No monthly fees and the fact that it is a referral bonus makes this more attractive.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-only-financial-partners-credit-union-100-referral-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Western State Bank – $100 – AZ ND – In Branch Only",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.westernbanks.com/personal/programs/",
+            "description": "Another relatively small in branch bonus, still worth doing if you live near a branch and have done the bigger bonuses listed above.",
+            "reviewUrl": "https://www.doctorofcredit.com/az-nd-only-100-western-state-bank-checking-account-promotion/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit required, no minimum specified"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "The Bank of Princeton $100 Checking Bonus – NJ & PA, In Branch",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://thebankofprinceton.com/wise-checking-promotion",
+            "description": "No monthly fee is required which is nice.",
+            "reviewUrl": "https://www.doctorofcredit.com/nj-pa-in-branch-only-the-bank-of-princeton-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "City National Bank – $100 Checking – VA, WV, OH – In Branch",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.bankatcity.com/get100",
+            "description": "Not the most attractive offer given that it’s only $100 and in branch only, but still worth considering for those that have done the bigger bonuses above.",
+            "reviewUrl": "https://www.doctorofcredit.com/va-city-national-bank-100-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $200+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Neighborhood Credit Union $300 Checking Bonus – TX",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.myncu.com/bank/checking/cash-bonus",
+            "description": "Previously this was only a $100 bonus, so it’s nice to see it increased by such a huge amount.",
+            "reviewUrl": "https://www.doctorofcredit.com/tx-only-neighborhood-credit-union-100-checking-bonus/",
+            "creditPullType": "HARD",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Georgia’s Own Credit Union $200/$400 – GA",
+            "accountType": "STATE_SPECIFIC",
+            "directLinkToOffer": "https://www.georgiasown.org/checking/welcome-bonus/",
+            "description": "Unfortunately it’s a hard pull but there is now a $400 variation as well.",
+            "reviewUrl": "https://www.doctorofcredit.com/ga-only-georgias-own-credit-union-200-checking-bonus/",
+            "creditPullType": "HARD",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "First Home Bank $500 – FL In Branch Only",
+            "accountType": "REGION_OR_BRANCH_SPECIFIC",
+            "directLinkToOffer": "https://www.firsthomebank.com/offer-landing-pages/belleair-bluffs-grand-opening-offers/",
+            "description": "This is a checking & savings bonus but not huge deposit requirement.",
+            "reviewUrl": "https://www.doctorofcredit.com/fl-first-home-bank-250-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit of $500+ required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Abington Bank $300 Checking Bonus, Direct Deposit Not Required, MA Plymouth County and Norfolk County",
+            "accountType": "REGION_OR_BRANCH_SPECIFIC",
+            "directLinkToOffer": "https://abingtonbank.com/landing/specials/",
+            "description": "We don’t know much about this bank, but this bonus seems easy to trigger and is much higher than normal.",
+            "reviewUrl": "https://www.doctorofcredit.com/ma-only-abington-bank-200-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit is optional"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Valley Strong Credit Union $250, Direct Deposit Not Required (Tulare, San Joaquin and Solano Counties)",
+            "accountType": "REGION_OR_BRANCH_SPECIFIC",
+            "directLinkToOffer": "https://www.valleystrong.com/open-checking-and-earn-250-1",
+            "description": "Nice bonus with no direct deposit required.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-select-counties-valley-strong-credit-union-250-checking-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit optional"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Southland Credit Union $200 Checking Bonus – CA Long Beach",
+            "accountType": "REGION_OR_BRANCH_SPECIFIC",
+            "directLinkToOffer": "https://www.southlandcu.org/save-spend/checking/long-beach-checking/",
+            "description": "Only available at the long beach location.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-long-beach-only-200-southland-credit-union-checking-bonus/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit optional"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Middlesex Federal MA, In Branch $150 Bonus, Direct Deposit Not Required",
+            "accountType": "REGION_OR_BRANCH_SPECIFIC",
+            "directLinkToOffer": "https://info.middlesexfederal.com/personal-checking",
+            "description": "Unfortunately you have to open this in branch.",
+            "reviewUrl": "https://www.doctorofcredit.com/ma-in-branch-middlesex-federal-150-checking-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Cap Ed Credit Union $100, Direct Deposit Not Required ID Only",
+            "accountType": "REGION_OR_BRANCH_SPECIFIC",
+            "directLinkToOffer": "https://www.capedcu.com/school-resources/get-give.html",
+            "description": "Account also has no monthly fees to worry about and might actually be available nationwide.",
+            "reviewUrl": "https://www.doctorofcredit.com/in-only-cap-ed-credit-union-100-checking-bonus-no-direct-deposit-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "San Mateo Credit Union $100 Bonus – Direct Deposit Not Required – CA Only",
+            "accountType": "REGION_OR_BRANCH_SPECIFIC",
+            "directLinkToOffer": "https://www.smcu.org/Landing-Pages/checking100",
+            "description": "Only available in San Mateo County, the City of Palo Alto, or certain areas of San Francisco.",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-only-san-mateo-credit-union-100-checking-bonus-direct-deposit-not-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "ALLOWED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Commonwealth Central Credit Union $100 Santa Clara County, CA, Direct Deposit Not Required",
+            "accountType": "REGION_OR_BRANCH_SPECIFIC",
+            "directLinkToOffer": "https://www.wealthcu.org/summer-checking",
+            "description": "Unfortunately it’s a hard pull but at least no DD is required",
+            "reviewUrl": "https://www.doctorofcredit.com/ca-only-commonwealth-central-credit-union-100-checking-bonus/",
+            "creditPullType": "HARD",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "no direct deposit required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Green State Credit Union $100 Checking Bonus – IA & IL, Direct Deposit Not Required",
+            "accountType": "REGION_OR_BRANCH_SPECIFIC",
+            "directLinkToOffer": "https://www.greenstate.org/deposit-specials.html",
+            "description": "Just requires 12 debit card transactions to trigger the bonus.",
+            "reviewUrl": "https://www.doctorofcredit.com/ia-in-branch-green-state-credit-union-100-checking-bonus-no-direct-deposit-required/",
+            "creditPullType": "SOFT",
+            "creditFunding": "PROHIBITED",
+            "directDepositDetails": "direct deposit not required"
+        }
+    },
+    {
+        "status": "fulfilled",
+        "value": {
+            "title": "Purdue Federal Credit Union $250 IN, Lake & Porter County",
+            "accountType": "REGION_OR_BRANCH_SPECIFIC",
+            "directLinkToOffer": "https://www.purduefed.com/site/welcome-crown-point/checking-bonus/",
+            "description": "Bonus was previously only $150.",
+            "reviewUrl": "https://www.doctorofcredit.com/in-lake-porter-county-purdue-federal-credit-union-150-checking-bonus/",
+            "creditPullType": "SOFT",
+            "directDepositDetails": "direct deposit required, but fine print says any ach will work",
+            "creditFunding": "ALLOWED"
+        }
+    }
+]

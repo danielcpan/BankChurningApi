@@ -1,58 +1,60 @@
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 
-const BonusSchema = new mongoose.Schema({
-  name: {
-    type: String,
-    min: 6,
-    max: 255,
+const BonusSchema = new mongoose.Schema(
+  {
+    name: {
+      type: String,
+      min: 6,
+      max: 255,
+    },
+    accountType: {
+      type: String,
+      enum: ["CHECKING", "SAVINGS", "INVESTMENT", "CASHBACK_PORTAL", "MONEY_MARKET", "CD", "OTHER"],
+      default: null,
+    },
+    businessOrPersonal,
+    description: {
+      type: String,
+    },
+    // url
+    // coverImage
+    // cashBonus
+    // otherBonus
+    // expirationDate
+    // isDirectDepositRequired: directDepositRequired
+    // directDepositAmount
+    // directDepositQuantity
+    // savingsAmount
+    // savingsTimeRequirement
+    // otherRequirements
+    // hardPull
+    // waitForReward
+    // leaveAccountOpen
+    // monthlyFees
+    // monthlyFeeAmount
+    // howToAvoidMonthlyFees
+    // openOnline
+    // dateAdded
+    // debitCardPurchases
+    // billPayments
+    // review
+    // eligibility
+    // locationAvailability
+    // recommended
+    // promoCode
+    // accountClosureFee
+    // chexsystems
+    // chexsystemsSensitive
+    // ccFundingLimit
+    // ccFundingCardTypes
+    // minimumOpeningDeposit
+    // acceptsOutOfStateApplicants
+    // newCustomersOnly
   },
-  accountType: {
-    type: String,
-    enum: ['CHECKING', 'SAVINGS', 'INVESTMENT', 'CASHBACK_PORTAL', 'MONEY_MARKET', 'CD', 'OTHER'],
-    default: null,
-  },
-  businessOrPersonal,
-  description: {
-    type: String,
-  },
-  url
-  coverImage    
-  cashBonus
-  otherBonus
-  expirationDate
-  isDirectDepositRequired: directDepositRequired
-  directDepositAmount
-  directDepositQuantity
-  savingsAmount
-  savingsTimeRequirement
-  otherRequirements
-  hardPull
-  waitForReward
-  leaveAccountOpen
-  monthlyFees
-  monthlyFeeAmount
-  howToAvoidMonthlyFees
-  openOnline
-  dateAdded
-  debitCardPurchases
-  billPayments
-  review
-  eligibility    
-  locationAvailability
-  recommended
-  promoCode
-  accountClosureFee
-  chexsystems
-  chexsystemsSensitive
-  ccFundingLimit
-  ccFundingCardTypes
-  minimumOpeningDeposit
-  acceptsOutOfStateApplicants
-  newCustomersOnly
-
-}, {
-  timestamps: true,
-});
+  {
+    timestamps: true,
+  }
+);
 
 BonusSchema.method({
   isValidPassword(password) {
@@ -73,4 +75,4 @@ BonusSchema.static({
   },
 });
 
-module.exports = mongoose.model('User', BonusSchema);
+module.exports = mongoose.model("User", BonusSchema);
